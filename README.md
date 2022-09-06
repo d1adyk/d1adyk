@@ -1,4 +1,3 @@
-<code>🎓 Student: KPI / мв-п01</code>
 <code>⚪ Community: Lazy Ants</code>
 <code>👷 Speciality: DevOps Engineer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
