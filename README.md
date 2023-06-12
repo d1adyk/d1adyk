@@ -7,5 +7,5 @@
 <code>🧑‍💻 Languages: Bash, Python</code>
 <code>📦 Tech stack: AWS/Terraform</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@ndr1y44D](https://t.me/ndr1y44D)</code>
+<code>💬 telegram: [@ndr1y42](https://t.me/ndr1y42)</code>
 <code>📫 [andriy.dyadyk@gmail.com](mailto:andriy.dyadyk@gmail.com)</code>
