@@ -1,4 +1,3 @@
-<code>⚪ Community: Lazy Ants</code>
 <code>👷 Speciality: DevOps Engineer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
